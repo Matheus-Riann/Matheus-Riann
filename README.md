@@ -6,8 +6,8 @@
 
 📌 Sempre aberto a novas oportunidades, desafios e conexões na área de tecnologia. Vamos conversar?  
 
-📫 **Contato:**  
-[LinkedIn] (https://www.linkedin.com/in/matheus-riann-nascimento/) 
+📫 Contato:
+LinkedIn (https://www.linkedin.com/in/matheus-riann-nascimento/) 
 
 <!---
 Matheus-Riann/Matheus-Riann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
